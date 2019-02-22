@@ -17,3 +17,4 @@ How to VS Code |	https://medium.freecodecamp.org/favorite-vs-code-extensions-201
 Regular expressions	| https://www.regular-expressions.info/tutorial.html	
 Practical Java Script | 	https://watchandcode.com/p/practical-javascript	
 JavaScript Info |	https://javascript.info/	| Ilya Kantor
+You Don't Know JS | https://github.com/getify/You-Dont-Know-JS | Kyle Simpson
