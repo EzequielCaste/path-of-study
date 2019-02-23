@@ -3,7 +3,7 @@ Una de las cosas más difíciles como autodidacta para mí, es encontrar el cami
 
 Entre tanto material, es muy difícil saber qué estudiar, cómo entrenarlo, etc. Esto intenta ser un *listado de cosas copadas*, ordenadas en según se fue y va dando mi proceso de aprendizaje; es lo que quedó de un montón de otras cosas que experimenté, leí o probé y luego de hacerlas vi no resultaba. Espero les sea de utilidad.
 
-### Cursos prolongados
+## Cursos prolongados
 
 | Curso | Link | Autor
 ---|---|---
@@ -19,13 +19,25 @@ Practical Java Script | 	https://watchandcode.com/p/practical-javascript
 JavaScript Info |	https://javascript.info/	| Ilya Kantor
 You Don't Know JS | https://github.com/getify/You-Dont-Know-JS | Kyle Simpson
 
-### Artículos muy útiles
+## Tremendos libros para ir a las bases
+#### No técnicos sino de manejo del tiempo, creación de producto, behavior, etc.
+| Libro | Link | Autor
+---|---|---
+La semana laboral de 4 horas | https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357 | Tim Ferriss
+El camino del artista | https://www.amazon.es/ArtistS-Way-25Th-Anniversary/dp/0143129252 | Julia Cameron
+The art of learning | https://www.amazon.es/Art-Learning-Journey-Optimal-Performance/dp/0743277465 | Jooshua Waitzkin
+The Art of the Start | https://guykawasaki.com/books/the-art-of-the-start/ | Guy Kawasaki
+The 801010 Diet | https://www.amazon.com/80-10-Diet/dp/1893831248 | Douglas Graham
+
+
+## Artículos muy útiles
 #### Generales
 | Artículo | Link
 | --- | ---
 How to become an expert |	https://www.youtube.com/watch?v=v0TFmdO4ZP0&t=134s
 Asking good questions |	https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
 Path Front End |	https://www.youtube.com/watch?v=ExsGyZDBlJQ
+Aprendizaje rápido de idiomas | https://tim.blog/2009/01/20/learning-language/
 
 #### Técnicos
 | Artículo | Link
